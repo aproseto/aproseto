@@ -1,12 +1,10 @@
 # Hello, I'm Alec Roseto
 <a href="https://www.linkedin.com/in/alec-roseto/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Cybersecurity Junior with a passion for incident response, digital forensics, and phishing analysis. I am currently building Security Analyst skills through certifications, projects, labs, and walkthroughs.
+I am a Landscape Architecture graduate from the University of Washington. I am currently building Security Analyst skills through certifications, projects, labs, and walkthroughs. I have an interest in developing skills in technology and enjoy problem solving and technical puzzles.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am a Cybersecurity Junior with a passion for incident response, digital forensics, and phishing analysis. I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
