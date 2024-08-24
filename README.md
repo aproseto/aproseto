@@ -44,7 +44,9 @@ I am a Cybersecurity Junior with a passion for incident response, digital forens
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/0e5e243c-27a6-49ee-91e2-b1a4f8c5bf51/public_url">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
 <img src="https://img.shields.io/badge/-BTL1%2B-0078D4?&style=for-the-badge&logo=SecurityBlueTeam&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cybersecurity%2B-0078D4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
