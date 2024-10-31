@@ -52,4 +52,4 @@ I am a Cybersecurity Junior with a passion for incident response, digital forens
 </div>
 
 ## Projects
-- [Insert Project Here, hyperlinked]
+- TryHackMe - SOC Level 1
