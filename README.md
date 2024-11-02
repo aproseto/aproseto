@@ -2,10 +2,10 @@
 <a href="https://www.linkedin.com/in/alec-roseto/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://tryhackme.com/p/aproseto"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 
-I am a Landscape Architecture graduate from the University of Washington. I am currently building Security Analyst skills through certifications, projects, labs, and walkthroughs. I have an interest in developing skills in technology and enjoy problem solving and technical puzzles.
+I am a graduate from the University of Washington who is currently building Security Analyst skills through certifications, projects, labs, and walkthroughs. I have an interest in developing skills in technology and enjoy problem solving and technical puzzles.
 
 ## Objective
-I am an aspiring Cybersecurity Analyst with a passion for incident response, digital forensics, and phishing analysis. I am eager to utilize my phishing analysis and traffic analysis skills, aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am an aspiring Cybersecurity Analyst with a passion for incident response, digital forensics, and phishing analysis. I am eager to utilize my phishing analysis, SIEM, and traffic analysis skills, aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
