@@ -48,7 +48,7 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
     
 <a href="https://www.credly.com/badges/0e5e243c-27a6-49ee-91e2-b1a4f8c5bf51/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://img.shields.io/badge/-Blue%20Team%20Level%201-0070FF?style=for-the-badge&logo=https://media.licdn.com/dms/image/v2/D4E0BAQEBdbmLXnyixQ/company-logo_200_200/company-logo_200_200/0/1727364867304/security_blue_team_logo?e=1738800000&v=beta&t=qQuoeOWwA4pFF70A9yDgU1vk_bRhF-VtIesggugiwiU&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/13ef7feb-65d6-4f79-b3c3-685a7817642c/public_url"><img src="https://img.shields.io/badge/-Blue%20Team%20Level%201-0000FF?&style=for-the-badge&logo=SecurityBlueTeam&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/13ef7feb-65d6-4f79-b3c3-685a7817642c/public_url"><img src="https://img.shields.io/badge/-Blue%20Team%20Level%201-0000FF?&style=for-the-badge&logo=[SecurityBlueTeam](https://media.licdn.com/dms/image/v2/D4E0BAQEBdbmLXnyixQ/company-logo_200_200/company-logo_200_200/0/1727364867304/security_blue_team_logo?e=1738800000&v=beta&t=qQuoeOWwA4pFF70A9yDgU1vk_bRhF-VtIesggugiwiU)&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/db015c40-b3fd-4a12-ad5e-9a1938d5e242/public_url"><img src="https://img.shields.io/badge/-Cybersecurity%2B-0078D4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 </div>
 
