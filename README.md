@@ -8,7 +8,6 @@ I am a graduate from the University of Washington who is currently building Secu
 I am an aspiring Cybersecurity Analyst with a passion for incident response, digital forensics, and phishing analysis. I am eager to utilize my phishing analysis, SIEM, and traffic analysis skills, aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
