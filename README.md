@@ -53,7 +53,7 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-FF7F50?style=for-the-badge&logo=virustotal&logoColor=white" />
 </div>
 
 ### Phishing Analysis
