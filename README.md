@@ -58,7 +58,7 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
 
 ### Phishing Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Thunderbird-2E7D32?style=for-the-badge&logo=thunderbird&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Thunderbird-1F5B8C?style=for-the-badge&logo=thunderbird&logoColor=white" />
 </div>
 
 ## Certifications
