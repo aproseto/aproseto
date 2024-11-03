@@ -51,7 +51,7 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
 
 ### Cyber Threat Intelligence
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CyberChef-4E97B0?style=for-the-badge&logo=cyberchef&logoColor=white" />
     <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-FC4F1E?style=for-the-badge&logo=mitre&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirusTotal-0072C6?style=for-the-badge&logo=virustotal&logoColor=white" />
 
