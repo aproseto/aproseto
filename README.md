@@ -45,7 +45,7 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
 ### Digital Forensics & Incident Response
 <div>
     <img src="https://img.shields.io/badge/-Autopsy-3B3B3B?style=for-the-badge&logo=autopsy&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TheHive-FEBE10?style=for-the-badge&logo=thehive&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TheHive-FEBE10?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAADl6eVnAAAABGdBTUEAALGPC/xhBQAAAAJcEhZcwAADsMAAA7DAcdvqGQAAB3hJREFUeNqUk09LwzAQR3VkeKEZP8BvCqCtNg0uQIU4vS8gQQoUooQQvRAKyW+IWzC/5KjL66sRhBEAtT5zU3XJ58EO7gA4GxJxnTLtKbw0C4hKgc78n3OfOZd7qBOlfYH3AE6WgFtiwDYEfYACzLAlkBLY4Z3LUU4AohAgAvxDfIEu7Q5u8AO3g7sZwFugJh1xQ6mM+VoUAAeQ8CEUnwAcD1CyWodA24MSpLyT1DzXQQHYuSgAAwD4jgCgAXA1H4VAA0U9c9BdDpBqO4gE6gnqDW5AfgBIXrAChRxA/0B0C4F8M60HAgUVaIHoCAqRz5sSwF4UL2+DQgqJx+H3E/cNnMBwC0i6lDIAqA6G5EzPAKiAg0PLLCEDMBY0HwpANAAA7mEyOpJ9XfwAAAAASUVORK5CYII=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
