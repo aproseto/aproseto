@@ -12,12 +12,9 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Log Analysis          | <a href="https://github.com/aproseto/SOC-Level-1/blob/main/README.md">SOC Level 1 - TryHackMe</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/aproseto/SOC-Level-1/blob/main/README.md">SOC Level 1 - TryHackMe</a>|
+| Memory Dumb Analysis        | <a href="https://github.com/aproseto/SOC-Level-1/blob/main/README.md">SOC Level 1 - TryHackMe</a>|
 
 ## Tools
 
