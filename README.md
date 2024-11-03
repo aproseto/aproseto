@@ -39,7 +39,7 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
 <div>
     <img src="https://img.shields.io/badge/-Windows%20Event%20Logs-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sysmon-4E4E4E?style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DeepBlueCLI-000080?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ### Digital Forensics & Incident Response
