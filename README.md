@@ -69,4 +69,4 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
 </div>
 
 ## Projects
-- TryHackMe - SOC Level 1
+- <a href="https://github.com/aproseto/SOC-Level-1/blob/main/README.md">SOC Level 1 - TryHackMe</a>
