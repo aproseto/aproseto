@@ -14,6 +14,8 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
 | SIEM Log Analysis          | <a href="https://github.com/aproseto/SOC-Level-1/blob/main/README.md">SOC Level 1 - TryHackMe</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/aproseto/SOC-Level-1/blob/main/README.md">SOC Level 1 - TryHackMe</a>|
 | Memory Dump Analysis        | <a href="https://github.com/aproseto/SOC-Level-1/blob/main/README.md">SOC Level 1 - TryHackMe</a>|
+| Phishing Email Creation          | <a href="https://github.com/aproseto/Phishing-Campaign/blob/main/README.md">Phishing Campaign</a>|
+| Phishing Educational Presentation Creation          | <a href="https://github.com/aproseto/Phishing-Campaign/blob/main/README.md">Phishing Campaign</a>|
 
 ## Tools
 
