@@ -43,6 +43,11 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
     <img src="https://img.shields.io/badge/-DeepBlueCLI-000080?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
+### Cloud Security
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</div>
+
 ### Digital Forensics & Incident Response
 <div>
     <img src="https://img.shields.io/badge/-Autopsy-3B3B3B?style=for-the-badge&logo=autopsy&logoColor=white" />
