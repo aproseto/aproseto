@@ -11,15 +11,15 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Log Analysis          | <a href="https://github.com/aproseto/SOC-Level-1/blob/main/README.md">SOC Level 1 - TryHackMe</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/aproseto/SOC-Level-1/blob/main/README.md">SOC Level 1 - TryHackMe</a>|
-| Memory Dump Analysis        | <a href="https://github.com/aproseto/SOC-Level-1/blob/main/README.md">SOC Level 1 - TryHackMe</a>|
-| Azure Networking Configuration | <a href="https://github.com/aproseto/Azure-Networking/blob/main/README.md">Azure Networking</a>|
-| Python Created Firewall Rule        | <a href="https://github.com/aproseto/Telstra-Firewall-Project/blob/main/README.md">Telstra Firewall Project</a>|
-| Ethically Decrypt Ransomware File using Python Code | <a href="https://github.com/aproseto/AIG-Ransomware-Decryption/blob/main/README.md">AIG Ransomware Decryption</a>|
-| Incident Post-mortem Report        | <a href="https://github.com/aproseto/Telstra-Firewall-Project/blob/main/README.md">Telstra Firewall Project</a>|
-| Phishing Email Creation          | <a href="https://github.com/aproseto/Phishing-Campaign/blob/main/README.md">Phishing Campaign</a>|
-| Phishing Educational Presentation Creation          | <a href="https://github.com/aproseto/Phishing-Campaign/blob/main/README.md">Phishing Campaign</a>|
+| SIEM Log Analysis          | <a href="https://github.com/aproseto/SOC-Level-1">SOC Level 1 - TryHackMe</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/aproseto/SOC-Level-1">SOC Level 1 - TryHackMe</a>|
+| Memory Dump Analysis        | <a href="https://github.com/aproseto/SOC-Level-1">SOC Level 1 - TryHackMe</a>|
+| Azure Networking Configuration | <a href="https://github.com/aproseto/Azure-Networking">Azure Networking</a>|
+| Python Created Firewall Rule        | <a href="https://github.com/aproseto/Telstra-Firewall-Project">Telstra Firewall Project</a>|
+| Ethically Decrypt Ransomware File using Python Code | <a href="https://github.com/aproseto/AIG-Ransomware-Decryption">AIG Ransomware Decryption</a>|
+| Incident Post-mortem Report        | <a href="https://github.com/aproseto/Telstra-Firewall-Project">Telstra Firewall Project</a>|
+| Phishing Email Creation          | <a href="https://github.com/aproseto/Phishing-Campaign">Phishing Campaign</a>|
+| Phishing Educational Presentation Creation          | <a href="https://github.com/aproseto/Phishing-Campaign">Phishing Campaign</a>|
 
 ## Tools
 
@@ -76,8 +76,8 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
 </div>
 
 ## Projects
-- <a href="https://github.com/aproseto/Azure-Networking/blob/main/README.md">Azure Networking</a>
-- <a href="https://github.com/aproseto/Telstra-Firewall-Project/blob/main/README.md">Telstra Firewall Project</a>
-- <a href="https://github.com/aproseto/Phishing-Campaign/blob/main/README.md">Phishing Campaign</a>
-- <a href="https://github.com/aproseto/AIG-Ransomware-Decryption/blob/main/README.md">AIG Ransomware Decryption</a>
-- <a href="https://github.com/aproseto/SOC-Level-1/blob/main/README.md">SOC Level 1 - TryHackMe</a>
+- <a href="https://github.com/aproseto/Azure-Networking">Azure Networking</a>
+- <a href="https://github.com/aproseto/Telstra-Firewall-Project">Telstra Firewall Project</a>
+- <a href="https://github.com/aproseto/Phishing-Campaign">Phishing Campaign</a>
+- <a href="https://github.com/aproseto/AIG-Ransomware-Decryption">AIG Ransomware Decryption</a>
+- <a href="https://github.com/aproseto/SOC-Level-1">SOC Level 1 - TryHackMe</a>
