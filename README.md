@@ -84,3 +84,4 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
 - <a href="https://github.com/aproseto/Phishing-Campaign">Phishing Campaign</a>
 - <a href="https://github.com/aproseto/AIG-Ransomware-Decryption">AIG Ransomware Decryption</a>
 - <a href="https://github.com/aproseto/SOC-Level-1">SOC Level 1 - TryHackMe</a>
+- <a href="https://github.com/aproseto/Advent-of-Cyber-2024">Advent of Cyber 2024 - TryHackMe</a>
