@@ -17,6 +17,8 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
 | Azure Networking Configuration | <a href="https://github.com/aproseto/Azure-Networking">Azure Networking</a>|
 | Azure Microsoft Defender Setup | <a href="https://github.com/aproseto/Microsoft-Defender-with-Azure/"> Azure Defender</a>|
 | Azure Key Vault Administration | <a href="https://github.com/aproseto/Microsoft-Defender-with-Azure/"> Azure Defender</a>|
+| Azure Sentinel Setup | <a href="https://github.com/aproseto/Azure-SIEM">Azure SIEM</a>|
+| Query Creation for SIEM Alerts | <a href="https://github.com/aproseto/Azure-SIEM">Azure SIEM</a>|
 | Python Created Firewall Rule        | <a href="https://github.com/aproseto/Telstra-Firewall-Project">Telstra Firewall Project</a>|
 | Ethically Decrypt Ransomware File using Python Code | <a href="https://github.com/aproseto/AIG-Ransomware-Decryption">AIG Ransomware Decryption</a>|
 | Incident Post-mortem Report        | <a href="https://github.com/aproseto/Telstra-Firewall-Project">Telstra Firewall Project</a>|
@@ -78,6 +80,7 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
 </div>
 
 ## Projects
+- <a href="https://github.com/aproseto/Azure-SIEM">Azure SIEM</a>
 - <a href="https://github.com/aproseto/Azure-Networking">Azure Networking</a>
 - <a href="https://github.com/aproseto/Microsoft-Defender-with-Azure/"> Azure Defender</a>
 - <a href="https://github.com/aproseto/Telstra-Firewall-Project">Telstra Firewall Project</a>
