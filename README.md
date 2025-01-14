@@ -11,14 +11,17 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Log Analysis          | <a href="https://github.com/aproseto/SOC-Level-1">SOC Level 1 - TryHackMe</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/aproseto/SOC-Level-1">SOC Level 1 - TryHackMe</a>|
-| Memory Dump Analysis        | <a href="https://github.com/aproseto/SOC-Level-1">SOC Level 1 - TryHackMe</a>|
 | Azure Networking Configuration | <a href="https://github.com/aproseto/Azure-Networking">Azure Networking</a>|
 | Azure Microsoft Defender Setup | <a href="https://github.com/aproseto/Microsoft-Defender-with-Azure/"> Azure Defender</a>|
 | Azure Key Vault Administration | <a href="https://github.com/aproseto/Microsoft-Defender-with-Azure/"> Azure Defender</a>|
 | Azure Sentinel Setup | <a href="https://github.com/aproseto/Azure-SIEM">Azure SIEM</a>|
 | Query Creation for SIEM Alerts | <a href="https://github.com/aproseto/Azure-SIEM">Azure SIEM</a>|
+| SIEM Log Analysis          | <a href="https://github.com/aproseto/SOC-Level-1">SOC Level 1 - TryHackMe</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/aproseto/SOC-Level-1">SOC Level 1 - TryHackMe</a>|
+| Memory Dump Analysis        | <a href="https://github.com/aproseto/SOC-Level-1">SOC Level 1 - TryHackMe</a>|
+| Vulnerability Scanning      | <a href="https://github.com/aproseto/Cyber-Defense">Cyber Defense - TryHackMe</a>|
+| Interpreting Logs           | <a href="https://github.com/aproseto/Cyber-Defense">Cyber Defense - TryHackMe</a>|
+| Networking Protocols        | <a href="https://github.com/aproseto/Cyber-Defense">Cyber Defense - TryHackMe</a>|
 | Python Created Firewall Rule        | <a href="https://github.com/aproseto/Telstra-Firewall-Project">Telstra Firewall Project</a>|
 | Ethically Decrypt Ransomware File using Python Code | <a href="https://github.com/aproseto/AIG-Ransomware-Decryption">AIG Ransomware Decryption</a>|
 | Incident Post-mortem Report        | <a href="https://github.com/aproseto/Telstra-Firewall-Project">Telstra Firewall Project</a>|
