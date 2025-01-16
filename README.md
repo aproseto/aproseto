@@ -61,6 +61,8 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
     <img src="https://img.shields.io/badge/-TheHive-FEBE10?style=for-the-badge&logo=thehive&logoColor=white" />
     <img src="https://img.shields.io/badge/-Volatility-8B0000?style=for-the-badge&logo=volatility&logoColor=white" />
     <img src="https://img.shields.io/badge/-Redline-FF6347?style=for-the-badge&logo=redline&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
 
 </div>
 
