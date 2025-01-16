@@ -35,6 +35,7 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-BRIM-0078D7?style=for-the-badge&logo=Brim&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenVAS-44CC11?style=for-the-badge&logo=openvas&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-4CAF50?style=for-the-badge&logo=nessus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
