@@ -67,6 +67,12 @@ I am an aspiring Cybersecurity Analyst with a passion for incident response, dig
 
 </div>
 
+### Malware Analysis
+<div>
+    <img src="https://img.shields.io/badge/-YARA-CC0000?style=for-the-badge&logo=yara&logoColor=white" />
+
+</div>
+
 ### Cyber Threat Intelligence
 <div>
     <img src="https://img.shields.io/badge/-CyberChef-57B65A?style=for-the-badge&logo=cyberchef&logoColor=white" />
